@@ -15,7 +15,7 @@
         title="Überfordert?"
         text="Eltern sind dafür verantwortlich, mit welchen Produkten ihr Kind Tag für Tag interagiert.
         Die Auswahl dieser ist eine riesige Herausforderung, da sich sowohl das Interesse, der Geschmack, 
-        als auch die Bedürfnisse und ergonomische Anforderungen stetig ändern. Demnach wenden sie viel Zeit, 
+        als auch die Bedürfnisse und ergonomischen Anforderungen stetig ändern. Demnach wenden sie viel Zeit, 
         Geld und auch Nerven auf um die optimalen Produkte auszusuchen, zu kaufen und auch wieder loszuwerden.
         Mit änny kaufen Eltern nur einmal und können individuell ergänzen."
         order="img-first"/>

@@ -5,8 +5,8 @@
                 <h1>Legal Notice <br >(Impressum)</h1>
                 <br >
                     Alina Gaidies
-                <br > Pferseerstraße 19
-                <br > 86150 Augsburg
+                <br > Rosenaustraße 70
+                <br > 86152 Augsburg
                 <br > Germany
                 <br ><br >
                 <b>Represented by:</b>

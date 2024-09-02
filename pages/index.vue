@@ -9,7 +9,7 @@
         <Quote 
         class="quote-section"
         bg="red"
-        text="due to änny ännything is possible. ännyone can create ännything at änny time."/>
+        text="now ännyone can build ännything, ännywhere, ännytime!"/>
         <div id="special" class="section">
             <Section 
             class="special-section"
@@ -27,7 +27,8 @@
             <Section 
             class="team-section"
             title="änny Team"
-            text="Hi, ich bin Alina! &#13; &#13; Kopf hinter änny und auf dem Weg zur Gründung. Das änny Team ist aber noch viel größer! 21 Personen waren schon an meinem Projekt beteiligt und haben sich eingebracht. Dafür sagen ich Danke!" />
+            text="Hi, wir sind Alina, Anna und Christian, das Gründungsteam von änny!
+Drei Jahre lang hat Alina unser LernSpielMöbel entwickelt, getestet und optimiert. Nun arbeiten wir gemeinsam daran, das Unternehmen hinter dem Konzept aufzubauen und umzusetzten." />
             <Team />
         </div>
         <div id="history" class="section">

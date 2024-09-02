@@ -7,17 +7,24 @@
         <div class="team-content">
             <cardUrl
             url="https://www.linkedin.com/in/alinagaidies"
-            img="/alina.jpg"
+            img="/3.png"
             alt="junge, blonde Frau namens Alina Gaidies"
             title="Alina Gaidies"
-            task="Product Design & UX"
+            task="Management, Industriedesign & UX/UI"
             desc=""/>
             <cardUrl
             url="mailto:anny.startup@gmail.com"
-            img="/placeholder.png"
+            img="/1.png"
+            alt="Foto von Christian"
+            title="Christian König"
+            task="Produktion & Logistik"
+            desc=""/>
+            <cardUrl
+            url="mailto:anny.startup@gmail.com"
+            img="/5.png"
             alt="Platzhalterbild"
-            title="…und vielleicht du?"
-            task="Wirtschaft, Marketing, Logistik oder UX"
+            title="Anna Sigl"
+            task="Marketing, Forschung & Service"
             desc=""/>
         </div>
     </div>
