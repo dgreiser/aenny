@@ -14,13 +14,6 @@
             desc=""/>
             <cardUrl
             url="mailto:anny.startup@gmail.com"
-            img="/1.png"
-            alt="Foto von Christian"
-            title="Christian König"
-            task="Produktion & Logistik"
-            desc=""/>
-            <cardUrl
-            url="mailto:anny.startup@gmail.com"
             img="/5.png"
             alt="Platzhalterbild"
             title="Anna Sigl"

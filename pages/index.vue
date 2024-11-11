@@ -27,7 +27,7 @@
             <Section 
             class="team-section"
             title="änny Team"
-            text="Hi, wir sind Alina, Anna und Christian, das Gründungsteam von änny!
+            text="Hi, wir sind Alina und Anna, das Gründungsteam von änny!
 Drei Jahre lang hat Alina unser LernSpielMöbel entwickelt, getestet und optimiert. Nun arbeiten wir gemeinsam daran, das Unternehmen hinter dem Konzept aufzubauen und umzusetzten." />
             <Team />
         </div>
