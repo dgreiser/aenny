@@ -12,13 +12,6 @@
             title="Alina Gaidies"
             task="Management, Industriedesign & UX/UI"
             desc=""/>
-            <cardUrl
-            url="mailto:anny.startup@gmail.com"
-            img="/5.png"
-            alt="Platzhalterbild"
-            title="Anna Sigl"
-            task="Marketing, Forschung & Service"
-            desc=""/>
         </div>
     </div>
-</template>
+</template>˝
