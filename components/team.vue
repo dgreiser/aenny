@@ -10,8 +10,15 @@
             img="/3.png"
             alt="junge, blonde Frau namens Alina Gaidies"
             title="Alina Gaidies"
-            task="Management, Industriedesign & UX/UI"
+            task="Management, Produktentwicklung, Vertrieb"
+            desc=""/>
+            <cardUrl
+            url="mailto:anny.startup@gmail.com"
+            img="/philipp.jpeg"
+            alt="Bild von Philipp"
+            title="Philipp"
+            task="Finanzen, rechtliches, Logistik"
             desc=""/>
         </div>
     </div>
-</template>˝
+</template>
