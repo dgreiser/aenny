@@ -5,7 +5,7 @@
                 <h1>Legal Notice <br >(Impressum)</h1>
                 <br >
                     Alina Gaidies
-                <br > ebastian-kneipp-gasse 6a
+                <br > Sebastian-Kneipp-Gasse 6a
                 <br > 86152 Augsburg
                 <br > Germany
                 <br ><br >
