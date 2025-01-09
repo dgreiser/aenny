@@ -15,8 +15,8 @@
             <cardUrl
             url="mailto:anny.startup@gmail.com"
             img="/philipp.jpeg"
-            alt="Bild von Philipp"
-            title="Philipp"
+            alt="Bild von Philipp Erner"
+            title="Philipp Erner"
             task="Finanzen, rechtliches, Logistik"
             desc=""/>
         </div>
